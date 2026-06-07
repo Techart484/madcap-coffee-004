@@ -1,0 +1,174 @@
+[
+  {
+    "productName": "Single Origin Coffee",
+    "imageUrl": "https://www.madcapcoffee.com/cdn/shop/files/Category_Coffee_1_25597dca-ccff-4c89-8823-c36b535e1683.jpg?v=1778529472",
+    "alt": "Single Origin Coffee — product photography",
+    "source": "inline",
+    "width": 3123,
+    "height": 3400
+  },
+  {
+    "productName": "Coffee Blends",
+    "imageUrl": "https://www.madcapcoffee.com/cdn/shop/files/JulianaGuevara_Website_Banner_3_1.jpg?v=1779209036",
+    "alt": "Coffee Blends — product photography",
+    "source": "inline",
+    "width": 6000,
+    "height": 2726
+  },
+  {
+    "productName": "Coffee Subscriptions",
+    "imageUrl": "https://www.madcapcoffee.com/cdn/shop/files/Category_Subscription_1205ddc7-e1cd-4871-ab52-0361c1c15f3a.jpg?v=1773684805",
+    "alt": "Coffee Subscriptions — product photography",
+    "source": "inline",
+    "width": 1499,
+    "height": 1632
+  },
+  {
+    "productName": "Juliana Guevara Java",
+    "imageUrl": "https://www.madcapcoffee.com/cdn/shop/files/Ferndale_Website_Banner-17.jpg?v=1778085616",
+    "alt": "Juliana Guevara Java — product photography",
+    "source": "inline",
+    "width": 6000,
+    "height": 2726
+  },
+  {
+    "productName": "Gitwe Coffee",
+    "imageUrl": "https://www.madcapcoffee.com/cdn/shop/files/Category_Equipment.jpg?v=1773684807",
+    "alt": "Gitwe Coffee — product photography",
+    "source": "inline",
+    "width": 1502,
+    "height": 1632
+  },
+  {
+    "productName": "Irvin Izaguirre Coffee",
+    "imageUrl": "https://www.madcapcoffee.com/cdn/shop/files/Category_Wholesale_a9adfd95-234c-4c11-b2af-8600756aa54a.jpg?v=1773684806",
+    "alt": "Irvin Izaguirre Coffee — product photography",
+    "source": "inline",
+    "width": 1499,
+    "height": 1630
+  },
+  {
+    "productName": "Nelson Moreno Coffee",
+    "imageUrl": "https://www.madcapcoffee.com/cdn/shop/files/Categories_Journal.jpg?v=1778529396",
+    "alt": "Nelson Moreno Coffee — product photography",
+    "source": "inline",
+    "width": 3128,
+    "height": 3395
+  },
+  {
+    "productName": "Bolt Blend",
+    "imageUrl": "https://www.madcapcoffee.com/cdn/shop/files/Category_CafeLocations-2.jpg?v=1778529449",
+    "alt": "Bolt Blend — product photography",
+    "source": "inline",
+    "width": 3123,
+    "height": 3395
+  },
+  {
+    "productName": "Eureka Blend",
+    "imageUrl": "",
+    "alt": "Eureka Blend — product photography",
+    "source": "fallback"
+  },
+  {
+    "productName": "Placebo (Decaf)",
+    "imageUrl": "",
+    "alt": "Placebo (Decaf) — product photography",
+    "source": "fallback"
+  },
+  {
+    "productName": "Fraction (Half-Caff)",
+    "imageUrl": "",
+    "alt": "Fraction (Half-Caff) — product photography",
+    "source": "fallback"
+  },
+  {
+    "productName": "Day Dream Coffee",
+    "imageUrl": "",
+    "alt": "Day Dream Coffee — product photography",
+    "source": "fallback"
+  },
+  {
+    "productName": "Cascara + Single Serve",
+    "imageUrl": "",
+    "alt": "Cascara + Single Serve — product photography",
+    "source": "fallback"
+  },
+  {
+    "productName": "Dito Coffee",
+    "imageUrl": "",
+    "alt": "Dito Coffee — product photography",
+    "source": "fallback"
+  },
+  {
+    "productName": "Espresso Machines",
+    "imageUrl": "",
+    "alt": "Espresso Machines — product photography",
+    "source": "fallback"
+  },
+  {
+    "productName": "Coffee Makers",
+    "imageUrl": "",
+    "alt": "Coffee Makers — product photography",
+    "source": "fallback"
+  },
+  {
+    "productName": "Grinders",
+    "imageUrl": "",
+    "alt": "Grinders — product photography",
+    "source": "fallback"
+  },
+  {
+    "productName": "Brewing Accessories",
+    "imageUrl": "",
+    "alt": "Brewing Accessories — product photography",
+    "source": "fallback"
+  },
+  {
+    "productName": "Drinkware",
+    "imageUrl": "",
+    "alt": "Drinkware — product photography",
+    "source": "fallback"
+  },
+  {
+    "productName": "Apparel",
+    "imageUrl": "",
+    "alt": "Apparel — product photography",
+    "source": "fallback"
+  },
+  {
+    "productName": "Branded Gear",
+    "imageUrl": "",
+    "alt": "Branded Gear — product photography",
+    "source": "fallback"
+  },
+  {
+    "productName": "E Gift Cards",
+    "imageUrl": "",
+    "alt": "E Gift Cards — product photography",
+    "source": "fallback"
+  },
+  {
+    "productName": "Cafe Locations",
+    "imageUrl": "",
+    "alt": "Cafe Locations — product photography",
+    "source": "fallback"
+  },
+  {
+    "productName": "Online Ordering",
+    "imageUrl": "",
+    "alt": "Online Ordering — product photography",
+    "source": "fallback"
+  },
+  {
+    "productName": "Classes & Tours",
+    "imageUrl": "",
+    "alt": "Classes & Tours — product photography",
+    "source": "fallback"
+  },
+  {
+    "productName": "Wholesale Program",
+    "imageUrl": "",
+    "alt": "Wholesale Program — product photography",
+    "source": "fallback"
+  }
+]
