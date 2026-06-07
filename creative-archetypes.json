@@ -1,0 +1,42 @@
+[
+  {
+    "sectionKey": "Elevated Series & Cafe Events",
+    "archetype": "asymmetric-feature",
+    "rationale": "services → asymmetric-feature"
+  },
+  {
+    "sectionKey": "Our Coffee Selection",
+    "archetype": "asymmetric-feature",
+    "rationale": "services → asymmetric-feature"
+  },
+  {
+    "sectionKey": "Brewing Equipment & Merch",
+    "archetype": "asymmetric-feature",
+    "rationale": "services → asymmetric-feature"
+  },
+  {
+    "sectionKey": "Visit Our Cafes",
+    "archetype": "editorial-journal",
+    "rationale": "about → editorial-journal"
+  },
+  {
+    "sectionKey": "Classes & Tours",
+    "archetype": "asymmetric-feature",
+    "rationale": "services → asymmetric-feature"
+  },
+  {
+    "sectionKey": "Journal",
+    "archetype": "editorial-journal",
+    "rationale": "about → editorial-journal"
+  },
+  {
+    "sectionKey": "Wholesale Program",
+    "archetype": "asymmetric-feature",
+    "rationale": "services → asymmetric-feature"
+  },
+  {
+    "sectionKey": "Stay Connected",
+    "archetype": "whitespace-manifesto",
+    "rationale": "cta → whitespace-manifesto"
+  }
+]
